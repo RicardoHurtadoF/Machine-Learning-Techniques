@@ -1,1 +1,1 @@
-# Machie
+# Machine Learning techniques
